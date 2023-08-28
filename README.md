@@ -1,1 +1,2 @@
 # Dev-Detective
+Description : Dev-Detective is a sophisticated web-based platform designed to streamline the process of exploring and searching GitHub accounts of individuals. This project aims to provide users with a comprehensive and user-friendly interface to discover repositories, contributions, and programming activities of GitHub users. Whether you're a recruiter looking for potential candidates, a developer seeking collaboration opportunities, or simply curious about someone's coding journey, GitProbe has you covered.
